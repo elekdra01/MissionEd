@@ -1,0 +1,987 @@
+## intent:affirm
+- yes
+- yes sure
+- absolutely
+- for sure
+- definitely
+- yeah
+- si
+- ok
+- okay
+- loved it
+
+## intent:deny
+- no 
+- try another
+- sorry,this is not what i wanted
+- uh no
+- noope
+- do you have something else
+- no this does not work for me 
+- another one please
+- i don't like this one
+- give me another
+
+## intent:goodbye
+- Bye
+- Bye!
+- Goodbye
+- See you later
+- Bye bot
+- Goodbye friend
+- bye
+- bye for now
+- catch you later
+- gotta go
+- See you
+- goodnight
+- have a nice day
+- i'm off
+- see you later alligator
+- we'll speak soon
+
+## intent:greet
+- Hi 
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hi
+
+## intent: about_product
+- what are the services you providing with?
+- what is the purpose of this bot?
+- please tell me about your product
+- please tell me your services 
+- please tell me about products you offer
+- please tell me about your new products
+- tell me about your new products
+- let me know about your new products
+- i want to ask about your new product
+- i want to enquire about your new product
+- i want to enquire about your services
+- I want to know your products
+- Tell me services you provide
+- Let me know the services you offer
+- Tell me about your new services
+- Explain me about your new services
+- Explain about your product
+- Explain about your products
+
+## intent:inform
+- My email id is [queen@gmail.com](mailid)
+- my email id is [zapnbmzb@icloud.com](mailid)
+- my email id is [xjudqlxf@icloud.com](mailid)
+- my email id is [slhetpfa@yahoo.com](mailid)
+- my email id is [jmhmtmqi@zohocorp.com](mailid)
+- my email id is [exymsdze@gmx.com](mailid)
+- my email id is [vsfzqeta@icloud.com](mailid)
+- my email id is [jkaqssir@aol.com](mailid)
+- my email id is [natmdlyu@zohocorp.com](mailid)
+- my email id is [agwkfxzk@gmx.com](mailid)
+- my email id is [vjkmxwwr@icloud.com](mailid)
+- my email id is [plqzmzrx@gmx.com](mailid)
+- my email id is [sqhxbyqz@yahoo.com](mailid)
+- my email id is [wvilowtd@zohocorp.com](mailid)
+- my email id is [hjpnngmh@aol.com](mailid)
+- my email id is [xwndpryv@outlook.com](mailid)
+- my email id is [jlndoinl@gmail.com](mailid)
+- my email id is [ojmhroxd@gmx.com](mailid)
+- my email id is [dkozmknw@icloud.com](mailid)
+- my email id is [arscswft@gmx.com](mailid)
+- my email id is [uoydmnqb@gmx.com](mailid)
+- my email id is [wmigazeh@gmail.com](mailid)
+- my email id is [qbaggqlh@outlook.com](mailid)
+- my email id is [wopuyohu@zohocorp.com](mailid)
+- my email id is [cnqgqfwx@yahoo.com](mailid)
+- my email id is [xvmnaorq@gmx.com](mailid)
+- my email id is [qlunisue@zohocorp.com](mailid)
+- my email id is [yjevyryo@zohocorp.com](mailid)
+- my email id is [nhhxsyto@outlook.com](mailid)
+- my email id is [wmwtpreh@yahoo.com](mailid)
+- my email id is [zdazvcxo@gmx.com](mailid)
+- my email id is [hyskfytq@gmail.com](mailid)
+- my email id is [ljsplfoj@icloud.com](mailid)
+- my email id is [arcpncwq@gmail.com](mailid)
+- my email id is [ccshlwqe@zohocorp.com](mailid)
+- my email id is [mpdfklqn@gmail.com](mailid)
+- my email id is [kvxeogpr@icloud.com](mailid)
+- my email id is [ncpsvmbn@outlook.com](mailid)
+- my email id is [tsmttuer@zohocorp.com](mailid)
+- my email id is [xkdraejl@outlook.com](mailid)
+- my email id is [gemthzmo@yahoo.com](mailid)
+- my email id is [pnztredg@yahoo.com](mailid)
+- my email id is [jpzgwyvt@icloud.com](mailid)
+- my email id is [qnutqonr@yahoo.com](mailid)
+- my email id is [fwgcleke@gmx.com](mailid)
+- my email id is [awrxwghm@aol.com](mailid)
+- my email id is [nwqwcizz@yahoo.com](mailid)
+- my email id is [ulxalynw@gmail.com](mailid)
+- my email id is [asixvslx@aol.com](mailid)
+- my email id is [zmijixry@aol.com](mailid)
+- my email id is [xtrxibvm@yahoo.com](mailid)
+- Email id is [hello@yahoo.in](mailid)
+- This is my mail id [ldcanmpb@aol.com](mailid)
+- here it is,[mehwuxxs@aol.com](mailid)
+- here it is,[affyqvub@icloud.com](mailid)
+- here it is,[fmyiovpd@yahoo.com](mailid)
+- here it is,[gxsajqaw@icloud.com](mailid)
+- here it is,[llvpppul@yahoo.com](mailid)
+- here it is,[mlchcsol@icloud.com](mailid)
+- here it is,[vmvqyyxe@zohocorp.com](mailid)
+- here it is,[owdqlful@yahoo.com](mailid)
+- here it is,[cjrikczp@yahoo.com](mailid)
+- here it is,[uedqebby@outlook.com](mailid)
+- here it is,[ecrgawoy@yahoo.com](mailid)
+- here it is,[zlhuybiz@icloud.com](mailid)
+- here it is,[zwukqhez@gmx.com](mailid)
+- here it is,[bypkgiqp@outlook.com](mailid)
+- here it is,[istlihjq@icloud.com](mailid)
+- here it is,[ddrjhpvg@zohocorp.com](mailid)
+- here it is,[zyupjpfi@gmx.com](mailid)
+- here it is,[bigotkbt@aol.com](mailid)
+- here it is,[rynuocea@aol.com](mailid)
+- here it is,[kzdolmfm@aol.com](mailid)
+- here it is,[hnxifivd@aol.com](mailid)
+- here it is,[kahxhqbb@gmail.com](mailid)
+- here it is,[siyxvgdm@yahoo.com](mailid)
+- here it is,[qgrqyodl@icloud.com](mailid)
+- here it is,[ocpydqpi@gmail.com](mailid)
+- here it is,[gzxabzob@gmx.com](mailid)
+- here it is,[lpauesls@aol.com](mailid)
+- here it is,[mufkealc@zohocorp.com](mailid)
+- here it is,[jrqjnybm@icloud.com](mailid)
+- here it is,[nslohohv@outlook.com](mailid)
+- here it is,[mojpnqdo@gmail.com](mailid)
+- here it is,[dhpkvzha@zohocorp.com](mailid)
+- here it is,[gsamzyxb@zohocorp.com](mailid)
+- here it is,[wohkowph@zohocorp.com](mailid)
+- here it is,[nkromesc@yahoo.com](mailid)
+- here it is,[etnipwsd@gmx.com](mailid)
+- here it is,[fgytoedi@yahoo.com](mailid)
+- here it is,[pimqpwcx@yahoo.com](mailid)
+- here it is,[ovpwqejd@gmail.com](mailid)
+- here it is,[clsrnskl@aol.com](mailid)
+- here it is,[nhplvxpw@aol.com](mailid)
+- here it is,[xvbqnigz@yahoo.com](mailid)
+- here it is,[rcawxlui@gmx.com](mailid)
+- here it is,[cagsdoxt@zohocorp.com](mailid)
+- here it is,[euispyti@yahoo.com](mailid)
+- here it is,[hazwkbmk@yahoo.com](mailid)
+- here it is,[qxfftvqs@zohocorp.com](mailid)
+- here it is,[kkwbgjjr@gmx.com](mailid)
+- here it is,[jtllksgs@outlook.com](mailid)
+- here it is,[kcohahbd@zohocorp.com](mailid)
+- here it is,[aklxjijr@yahoo.com](mailid)
+- [adddv@outlook.com](mailid)
+- [king@gmail.com](mailid)
+- [fptkojao@outlook.com](mailid)
+- [fqsntyaz@yahoo.com](mailid)
+- [hqpoyhsu@zohocorp.com](mailid)
+- [uxnabnsb@gmx.com](mailid)
+- [gjrwbfdm@outlook.com](mailid)
+- [hrlqzbmn@gmx.com](mailid)
+- [pkanaffe@yahoo.com](mailid)
+- [racintyj@zohocorp.com](mailid)
+- [mnnijypz@outlook.com](mailid)
+- [mjjjdviz@outlook.com](mailid)
+- [biontjqs@aol.com](mailid)
+- [lhrftade@outlook.com](mailid)
+- [dcsyhnea@yahoo.com](mailid)
+- [sqquudgq@gmail.com](mailid)
+- [qtlheygd@zohocorp.com](mailid)
+- [skqhoxpi@icloud.com](mailid)
+- [vlkbenzt@yahoo.com](mailid)
+- [rdkyjjin@gmx.com](mailid)
+- [psrhbpmk@gmail.com](mailid)
+- [ihmfhwwa@outlook.com](mailid)
+- [ciyrrgdj@gmx.com](mailid)
+- [vtpjtgli@zohocorp.com](mailid)
+- [lwwsilrn@outlook.com](mailid)
+- [nchvxrcm@aol.com](mailid)
+- [uiutpoib@gmail.com](mailid)
+- [iubtzjbx@gmail.com](mailid)
+- [phyqwvxz@yahoo.com](mailid)
+- [bfhrcquo@icloud.com](mailid)
+- [izcgwyrt@gmx.com](mailid)
+- [oraximyj@gmx.com](mailid)
+- [arqtcooy@gmx.com](mailid)
+- [gyusjvdo@gmx.com](mailid)
+- [vdnuhcet@zohocorp.com](mailid)
+- [bzlrpyup@aol.com](mailid)
+- [aqvcykaa@gmx.com](mailid)
+- [kvzihtfm@yahoo.com](mailid)
+- [qvmlepap@outlook.com](mailid)
+- [dlnrtbfx@gmx.com](mailid)
+- [srffnwvb@aol.com](mailid)
+- [kfquzxgm@zohocorp.com](mailid)
+- [kpmvchemistryt@gmx.com](mailid)
+- [vnalhydp@gmx.com](mailid)
+- [xcpudvti@icloud.com](mailid)
+- [icsplitf@gmx.com](mailid)
+- [ymaegatr@zohocorp.com](mailid)
+- [horstnrg@yahoo.com](mailid)
+- [ffcmdyuv@gmail.com](mailid)
+- [bkvnoija@gmail.com](mailid)
+- [vrbgftmm@icloud.com](mailid)
+- [brpdmaev@gmx.com](mailid)
+- [nbzaopzr@icloud.com](mailid)
+- [mxnjztpf@outlook.com](mailid)
+- [tsqmckzj@gmx.com](mailid)
+- [zweqqoyb@yahoo.com](mailid)
+- [gzllvfjv@aol.com](mailid)
+- [jrrwyyol@outlook.com](mailid)
+- [eiqcqiqc@yahoo.com](mailid)
+- [gdmtozkf@gmail.com](mailid)
+- [syhmeuxn@outlook.com](mailid)
+- [khkiwvsv@icloud.com](mailid)
+- [jhdcloqk@zohocorp.com](mailid)
+- [fplkhgmu@gmx.com](mailid)
+- [zamwrwxg@gmail.com](mailid)
+- [zsouuvcb@gmx.com](mailid)
+- [tneicqho@yahoo.com](mailid)
+- [qtidfpxv@gmail.com](mailid)
+- [xhxrsupg@zohocorp.com](mailid)
+- [kxxtdnnv@zohocorp.com](mailid)
+- [behgxlfe@icloud.com](mailid)
+- [aspbqaoa@icloud.com](mailid)
+- [vylhfgev@gmail.com](mailid)
+- [kbpzroxt@icloud.com](mailid)
+- [jbsiznzj@yahoo.com](mailid)
+- [getkxcch@icloud.com](mailid)
+- [swsvkauu@gmx.com](mailid)
+- [gmmehhol@icloud.com](mailid)
+- [xfqyzzga@aol.com](mailid)
+- [xkfmgyhk@outlook.com](mailid)
+- [bntartzg@aol.com](mailid)
+- [ukoidtqv@gmx.com](mailid)
+- [esougcdx@outlook.com](mailid)
+- [bochwxdy@outlook.com](mailid)
+- [fbkezdbn@yahoo.com](mailid)
+- [pujfpvzj@outlook.com](mailid)
+- [cyvuryxu@gmx.com](mailid)
+- [tdldmjzm@gmx.com](mailid)
+- [fuisoglo@gmail.com](mailid)
+- [glpnzjxm@yahoo.com](mailid)
+- [oiqqiryv@zohocorp.com](mailid)
+- [ezznegjq@gmx.com](mailid)
+- [arweueku@yahoo.com](mailid)
+- [ygioefgz@outlook.com](mailid)
+- [ikhgavlg@yahoo.com](mailid)
+- [nhpsibks@aol.com](mailid)
+- [pxphtxrc@outlook.com](mailid)
+- [jzvtixev@yahoo.com](mailid)
+- [clmoifef@outlook.com](mailid)
+- [kisxpexo@aol.com](mailid)
+- [Corey Scaffer](username)
+- [Krish Naik](username)
+- My name is [Krish Naik](username)
+- My name is [Corey Scaffer](username)
+- My name is [Bill Gates](username)
+- My name is [Warren Buffet](username)
+- my name is [awlccva ed wqs](username)
+- my name is [gfodebxnpg](username)
+- my name is [ghlya](username)
+- my name is [dc wxhra](username)
+- my name is [fv rhcxuuis  k](username)
+- my name is [snonhjjkonwttb](username)
+- my name is [ripl rbu](username)
+- my name is [pa revlastoq](username)
+- my name is [sikiumkxxa](username)
+- my name is [lnitecyyf](username)
+- my name is [cxrfg](username)
+- my name is [mjbwdd](username)
+- my name is [toseymrkjevwrb](username)
+- my name is [ggbpeoajqufcldv](username)
+- my name is [duheepeach](username)
+- my name is [hytovabovkww](username)
+- my name is [wyfhkvcmgk](username)
+- my name is [iwl rvltfvef](username)
+- my name is [mewx](username)
+- my name is [frpqidboci](username)
+- my name is [rtrvdxbi](username)
+- my name is [rhpmhompfbw](username)
+- my name is [dbiyhddne](username)
+- my name is [xw](username)
+- my name is [fxffnjiuiwxeod](username)
+- my name is [pqkc p](username)
+- my name is [ipy](username)
+- my name is [aljagrjrfw](username)
+- my name is [veo](username)
+- my name is [glsgvmhkej](username)
+- my name is [r vqqxxgykr](username)
+- my name is [hgs](username)
+- my name is [l ](username)
+- my name is [nolrcss ukny](username)
+- my name is [rdmfkmuspuhmjf](username)
+- my name is [fjrmipmahxr](username)
+- my name is [ufyj](username)
+- my name is [clw](username)
+- my name is [opou](username)
+- my name is [risiriajyqbjrb](username)
+- my name is [x tpke](username)
+- my name is [ldstrl](username)
+- my name is [xemikhjxgo](username)
+- my name is [lnpj](username)
+- my name is [mqv](username)
+- my name is [ca](username)
+- my name is [ae](username)
+- My name is [Elon Musk](username)
+- [Warren Buffet](username)
+- [Bill Gates](username)
+- [Elon Musk](username)
+- My name is [Vighnesh](username)
+- [Vighnesh](username)
+- My name is [Ravi](username)
+- [Ravi](username)
+- My name is [Honey Singh](username)
+- [Honey Singh](username)
+- My name is [Salman Khan](username)
+- [Salman Khan](username)
+- My name is [Shah Rukh Khan](username)
+- My name is [Ajay Devagan](username)
+- [Sunny Deol](username)
+- My name is [Dharmendar](username)
+- My name is [Bobby Deol](username)
+- [John Doe](username)
+- [Jane Doe](username)
+- i am[Max Mustermann](username)
+- [Max Meier](username)
+- My phone number is [7999545121](phone_number)
+- My phone number is [8464646451](phone_number)
+- My phone number is [8484645482](phone_number)
+- My phone number is [7984844848](phone_number)
+- My phone number is [7896421188](phone_number)
+- My phone number is [6486531484](phone_number)
+- My phone number is [4684615846](phone_number)
+- My phone number is [9446316548](phone_number)
+- My phone number is [4984415654](phone_number)
+- My phone number is [8444448489](phone_number)
+- My phone number is [8646153166](phone_number)
+- My phone number is [6456546656](phone_number)
+- My phone number is [6513215313](phone_number)
+- number is [9864464645](phone_number)
+- number is [2948613377](phone_number)
+- number is [5593965741](phone_number)
+- number is [3341543862](phone_number)
+- number is [4728203909](phone_number)
+- number is [9072877182](phone_number)
+- number is [7436616339](phone_number)
+- number is [1016637848](phone_number)
+- number is [8590002368](phone_number)
+- number is [2245292247](phone_number)
+- number is [2239416352](phone_number)
+- number is [2917991452](phone_number)
+- number is [2752366769](phone_number)
+- number is [2521908560](phone_number)
+- number is [9903903401](phone_number)
+- number is [4420230209](phone_number)
+- number is [5806375766](phone_number)
+- number is [2579124276](phone_number)
+- number is [9859745710](phone_number)
+- number is [4217710339](phone_number)
+- number is [7599058205](phone_number)
+- number is [9546955319](phone_number)
+- number is [1151766034](phone_number)
+- number is [1619648113](phone_number)
+- number is [6342594055](phone_number)
+- number is [9761806718](phone_number)
+- number is [8103039570](phone_number)
+- number is [9112393795](phone_number)
+- number is [8211754510](phone_number)
+- contact no : [6443216549](phone_number)
+- contact no:[1831209447](phone_number)
+- contact no:[7662865291](phone_number)
+- contact no:[1365911808](phone_number)
+- contact no:[6064203544](phone_number)
+- contact no:[4071401990](phone_number)
+- contact no:[2426461761](phone_number)
+- contact no:[2038004069](phone_number)
+- contact no:[6761771252](phone_number)
+- contact no:[9515291909](phone_number)
+- contact no:[9511581822](phone_number)
+- contact no:[1304205164](phone_number)
+- contact no:[8753432475](phone_number)
+- contact no:[4937389354](phone_number)
+- contact no:[3723851526](phone_number)
+- contact no:[5381164898](phone_number)
+- contact no:[9457344004](phone_number)
+- contact no:[7970751014](phone_number)
+- contact no:[7062650946](phone_number)
+- contact no:[1409076976](phone_number)
+- contact no:[8771081622](phone_number)
+- contact no:[3351719662](phone_number)
+- contact no:[7830125447](phone_number)
+- contact no:[1287524873](phone_number)
+- contact no:[9160188200](phone_number)
+- contact no:[8600632081](phone_number)
+- contact no:[9408855989](phone_number)
+- contact no:[8718483247](phone_number)
+- contact no:[8908869823](phone_number)
+- contact no:[7304240148](phone_number)
+- contact no:[8783747934](phone_number)
+- contact no:[4914636549](phone_number)
+- contact no:[7271623832](phone_number)
+- contact no:[8228282058](phone_number)
+- contact no:[2017855226](phone_number)
+- contact no:[3460183976](phone_number)
+- contact no:[1192544570](phone_number)
+- contact no:[5863450819](phone_number)
+- contact no:[2927947111](phone_number)
+- contact no:[3697348851](phone_number)
+- contact no:[2389161260](phone_number)
+- contact no:[6433414634](phone_number)
+- contact no:[8097687740](phone_number)
+- contact no:[7861593665](phone_number)
+- contact no:[2947332283](phone_number)
+- contact no:[4267466829](phone_number)
+- this is my number. [3210230648](phone_number)
+- contact: [8464535656](phone_number)
+- My phone number is [6546464646](phone_number)
+- My phone number is [5165168474](phone_number)
+- My phone number is [3151564486](phone_number)
+- My phone number is [5315648648](phone_number)
+- My phone number is [8448484897](phone_number)
+- My phone number is [8448788878](phone_number)
+- My phone number is [6135154845](phone_number)
+- My phone number is [6516468446](phone_number)
+- My school is [littleflower hss](school)and board is [cbse](board)
+- My school is [ACHARIYA BALA SIKSHA MANDIR Puducherry](school)
+- My school is [AGARWAL VIDYA VIHAR Gujarat](school)
+- My school is [Agasti Secondary And Higher Secondary School Maharashtra](school)
+- My school is [AGN Matric Higher Secondary School Tamil Nadu](school)
+- My school is [AIR FORCE SCHOOL BAGDOGRA West Bengal](school)
+- My school is [Air Force School Hebbal Karnataka](school)
+- My school is [Alpha Wisdom Vidyashram Senior Secondary School Tamil Nadu](school)
+- My school is [Amity High School Gujarat](school)
+- My school is [AMITY INTERNATIONAL SCHOOL Haryana](school)
+- My school is [Amity International School Haryana](school)
+- My school is [Amity International School Pushp Vihar Delhi](school)
+- My school is [Amity International School Saket Delhi](school)
+- My school is [Amity International School Vasundhara Sector  Uttar Pradesh](school)
+- My school is [AMRITA VIDYALAYAM Tamil Nadu](school)
+- My school is [AMRITA VIDYALAYAM Kerala](school)
+- My school is [APEEJAY SCHOOL NOIDA Uttar Pradesh](school)
+- My school is [APEEJAY SCHOOL SHEIKH SARAI Delhi](school)
+- My school is [APSWR School Jr College Girls Tallapalem Visakhapatnam District Andhra Pradesh](school)
+- My school is [Aravali Public School Haryana](school)
+- My school is [ARMY PUBLIC SCHOOL SHILLONG Meghalaya](school)
+- My school is [ASHRAM PUBLIC SCHOOL Andhra Pradesh](school)
+- My school is [ASN Senior Secondary School Delhi](school)
+- My school is [ASSAM JATIYA BIDYALAY Assam](school)
+- My school is [BADRI NARAYAN SAHA DAV PUBLIC SCHOOL Jharkhand](school)
+- My school is [BAL BHARATI PUBLIC SCHOOL NOIDA Uttar Pradesh](school)
+- My school is [BASAVESHWARA INTERNATIONAL PUBLIC SCHOOL CBSE VIDYAGIRI BAGALKOT Karnataka](school)
+- My school is [Best Higher Secondary School Gujarat](school)
+- My school is [Bharatiya Vidya Bhavans Public school Telangana](school)
+- My school is [Bhartiya Vidya Mandir Senior Secondary School Punjab](school)
+- My school is [Bhartiya Vidya Mandir Sr Sec School Punjab](school) and board is [state](board)
+- My school is [BHAVAN'S VIDYA MANDIR, GIRINAGAR Kerala](school) and board is [state](board)
+- My school is [BIRLA SHISHU VIHAR Rajasthan](school) and board is [state](board)
+- My school is [BLUE BELLS MODEL SCHOOL Haryana](school) and board is [state](board)
+- My school is [BLUE BELLS PUBLIC SCHOOL Haryana](school) and board is [state](board)
+- My school is [Bluebells School International Delhi](school) and board is [state](board)
+- My school is [BNSD Shiksha Niketan Inter College Uttar Pradesh](school) and board is [state](board)
+- My school is [CHHATRI VIVEKANANDA VIDYABHAWAN (H.S) West Bengal](school) and board is [state](board)
+- My school is [Christukula Mission Hr. Sec. School Madhya Pradesh](school) and board is [state](board)
+- My school is [City Pride school Maharashtra](school) and board is [state](board)
+- My school is [CONTAI HIGH SCHOOL West Bengal](school) and board is [state](board)
+- My school is [D B M S ENGLISH SCHOOL Jharkhand](school) and board is [state](board)
+- My school is [D C Model Sr Sec School Punjab](school) and board is [state](board)
+- My school is [DARBARI LAL DAV MODEL SCHOOL Delhi](school) and board is [state](board)
+- My school is [ DAV International School Punjab](school) and board is [state](board)
+- My school is [ DAV MODEL SCHOOL IIT KHARAGPUR West Bengal](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL Delhi](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL Odisha](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL CHANDRASEKHARPUR Odisha](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL LAWRENCE ROAD AMRITSAR PUNJAB Punjab](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL UNIT VIII BHUBANESWAR Odisha](school) and board is [state](board)
+- My school is [ DAV PUBLIC SCHOOL VASANT KUNJ NEW DELHI Delhi](school) and board is [state](board)
+- My school is [ DELHI PUBLIC SCHOOL AMRITSAR Punjab](school) and board is [state](board)
+- My school is [ DELHI PUBLIC SCHOOL BANGALORE NORTH Karnataka](school) and board is [state](board)
+- My school is [DELHI PUBLIC SCHOOL BHAGALPUR Bihar](school) and board is [state](board)
+- My school is [ Delhi Public School Ghaziabad Uttar Pradesh](school) and board is [state](board)
+- My school is [ DELHI PUBLIC SCHOOL GHAZIABAD VASUNDHARA Uttar Pradesh](school) and board is [state](board)
+- My school is [ DELHI PUBLIC SCHOOL LUDHIANA Punjab](school) and board is [state](board)
+- My school is [ DELHI PUBLIC SCHOOL MANDLA ROAD JABALPUR Madhya Pradesh](school) and board is [state](board)
+- My school is [ Delhi Public School Numaligarh Assam](school) and board is [state](board)
+- My school is [DELHI PUBLIC SCHOOL PATNA Bihar](school) and board is [cbse](board)
+- My school is [DELHI PUBLIC SCHOOL PUNE Maharashtra](school) and board is [cbse](board)
+- My school is [ DELHI PUBLIC SCHOOL SRINAGAR Jammu and Kashmir](school) and board is [cbse](board)
+- My school is [ Dhanaji Nana VIdyalaya, Khiroda Maharashtra](school) and board is [cbse](board)
+- My school is [ DIVINE PROVIDENCE CONVENT HIGH SCHOOL Karnataka](school) and board is [cbse](board)
+- My school is [ DLF Public School Uttar Pradesh](school) and board is [cbse](board)
+- My school is [ DON BOSCO HIGHER SECONDARY SCHOOL Assam](school) and board is [cbse](board)
+- My school is [DOON PUBLIC SCHOOL Delhi](school) and board is [cbse](board)
+- My school is [Dr K B Hedgewar School Goa](school) and board is [cbse](board)
+- My school is [ Dr Nandurkar Vidyalaya Yavatmal Maharashtra](school) and board is [cbse](board)
+- My school is [DRV DAV CENTENARY PUBLIC SCHOOL PHILLAUR Punjab](school) and board is [cbse](board)
+- My school is [ Eicher school faridabad Haryana](school) and board is [cbse](board)
+- My school is [ EKALAVYA FOUNDATION SCHOOL Telangana](school) and board is [cbse](board)
+- My school is [ Fr Agnel Multipurpose High School Goa](school) and board is [cbse](board)
+- My school is [ GHSS MOOLANKAVE Kerala](school) and board is [cbse](board)
+- My school is [Goernment Senior Secondary School Namchi Sikkim](school) and board is [cbse](board)
+- My school is [ GOVERNMENNE HR SEC SCHOOL BILASPUR CG Chhattisgarh](school) and board is [cbse](board)
+- My school is [GOVERNMENT COMPOSITE HIGHSCHOOL VOLAKADU UDUPI Karnataka](school) and board is [cbse](board)
+- My school is [GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL Punjab](school) and board is [cbse](board)
+- My school is [GIRLS SENIOR SECONDARY SCHOOL NAMCHI](school) and board is [cbse](board)
+- My school is [HIGHER SECONDARY SCHOOL MADANPUR](school) and board is [cbse](board)
+- My school is [TT RAIGARH Chhattisgarh](school) and board is [cbse](board)
+- My school is [Government Model Senior Secondary School Chandigarh](school) and board is [cbse](board)
+- My school is [Model Senior Secondary School Sector 1C](school) and board is [cbse](board)
+- My school is [ GOVERNMENT P B P U COLLEGE FOR BOYS JAMKHANDI Karnataka](school) and board is [cbse](board)
+- My school is [ Government Senior Secondary School Temi Sikkim](school) and board is [cbse](board)
+- My school is [ Govt Kuldip Nigam Higher Secondary School Narra Chhattisgarh](school) and board is [cbse](board)
+- My school is [ GOVT MODEL HIGHER SECONDARY SCHOOL BASNA Chhattisgarh](school) and board is [cbse](board)
+- My school is [ GOVT MODEL SENIOR SECONDARY SCHOOL Chandigarh](school) and board is [cbse](board)
+- My school is [ Govt Model Sr Sec School Aberdeen Port Blair Andaman and Nicobar Island](school) and board is [cbse](board)
+- [A J DE ALMEIDA HIGH SCHOOL Goa](school)
+- [ACHARIYA BALA SIKSHA MANDIR Puducherry](school)
+- [AGARWAL VIDYA VIHAR Gujarat](school)
+- [Agasti Secondary And Higher Secondary School Maharashtra](school)
+- [AGN Matric Higher Secondary School Tamil Nadu](school)
+- [AIR FORCE SCHOOL BAGDOGRA West Bengal](school)
+- [Air Force School Hebbal Karnataka](school)
+- [Alpha Wisdom Vidyashram Senior Secondary School Tamil Nadu](school)
+- [Amity High School Gujarat](school)
+- [AMITY INTERNATIONAL SCHOOL Haryana](school)
+- [Amity International School Haryana](school)
+- [Amity International School Pushp Vihar Delhi](school)
+- [Amity International School Saket Delhi](school)
+- [Amity International School Vasundhara Sector  Uttar Pradesh](school)
+- [AMRITA VIDYALAYAM Tamil Nadu](school)
+- [AMRITA VIDYALAYAM Kerala](school)
+- [APEEJAY SCHOOL NOIDA Uttar Pradesh](school)
+- [APEEJAY SCHOOL SHEIKH SARAI Delhi](school)
+- [APSWR School Jr College Girls Tallapalem Visakhapatnam District Andhra Pradesh](school)
+- [Aravali Public School Haryana](school)
+- [ARMY PUBLIC SCHOOL SHILLONG Meghalaya](school)
+- [ASHRAM PUBLIC SCHOOL Andhra Pradesh](school)
+- [ASN Senior Secondary School Delhi](school)
+- [ASSAM JATIYA BIDYALAY Assam](school)
+- [BADRI NARAYAN SAHA DAV PUBLIC SCHOOL Jharkhand](school)
+- [BAL BHARATI PUBLIC SCHOOL NOIDA Uttar Pradesh](school)
+- [BASAVESHWARA INTERNATIONAL PUBLIC SCHOOL CBSE VIDYAGIRI BAGALKOT Karnataka](school)
+- [Best Higher Secondary School Gujarat](school)
+- [Bharatiya Vidya Bhavans Public school Telangana](school)
+- [Bhartiya Vidya Mandir Senior Secondary School Punjab](school)
+- [Bhartiya Vidya Mandir Sr Sec School Punjab](school)
+- [BHAVAN'S VIDYA MANDIR, GIRINAGAR Kerala](school)
+- [BIRLA SHISHU VIHAR Rajasthan](school)
+- [BLUE BELLS MODEL SCHOOL Haryana](school)
+- [BLUE BELLS PUBLIC SCHOOL Haryana](school)
+- [Bluebells School International Delhi](school)
+- [BNSD Shiksha Niketan Inter College Uttar Pradesh](school)
+- [CHHATRI VIVEKANANDA VIDYABHAWAN (H.S) West Bengal](school)
+- [Christukula Mission Hr. Sec. School Madhya Pradesh](school)
+- [City Pride school Maharashtra](school)
+- [CONTAI HIGH SCHOOL West Bengal](school)
+- [D B M S ENGLISH SCHOOL Jharkhand](school)
+- [D C Model Sr Sec School Punjab](school)
+- [DARBARI LAL DAV MODEL SCHOOL Delhi](school)
+- [ DAV International School Punjab](school)
+- [ DAV MODEL SCHOOL IIT KHARAGPUR West Bengal](school)
+- [ DAV PUBLIC SCHOOL Delhi](school)
+- [ DAV PUBLIC SCHOOL Odisha](school)
+- [ DAV PUBLIC SCHOOL CHANDRASEKHARPUR Odisha](school)
+- [ DAV PUBLIC SCHOOL LAWRENCE ROAD AMRITSAR PUNJAB Punjab](school)
+- [ DAV PUBLIC SCHOOL UNIT VIII BHUBANESWAR Odisha](school)
+- [ DAV PUBLIC SCHOOL VASANT KUNJ NEW DELHI Delhi](school)
+- [ DELHI PUBLIC SCHOOL AMRITSAR Punjab](school)
+- [ DELHI PUBLIC SCHOOL BANGALORE NORTH Karnataka](school)
+- [DELHI PUBLIC SCHOOL BHAGALPUR Bihar](school)
+- [ Delhi Public School Ghaziabad Uttar Pradesh](school)
+- [ DELHI PUBLIC SCHOOL GHAZIABAD VASUNDHARA Uttar Pradesh](school)
+- [ DELHI PUBLIC SCHOOL LUDHIANA Punjab](school)
+- [ DELHI PUBLIC SCHOOL MANDLA ROAD JABALPUR Madhya Pradesh](school)
+- [ Delhi Public School Numaligarh Assam](school)
+- [DELHI PUBLIC SCHOOL PATNA Bihar](school)
+- [DELHI PUBLIC SCHOOL PUNE Maharashtra](school)
+- [ DELHI PUBLIC SCHOOL SRINAGAR Jammu and Kashmir](school)
+- [ Dhanaji Nana VIdyalaya, Khiroda Maharashtra](school)
+- [ DIVINE PROVIDENCE CONVENT HIGH SCHOOL Karnataka](school)
+- [ DLF Public School Uttar Pradesh](school)
+- [ DON BOSCO HIGHER SECONDARY SCHOOL Assam](school)
+- [DOON PUBLIC SCHOOL Delhi](school)
+- [Dr K B Hedgewar School Goa](school)
+- [ Dr Nandurkar Vidyalaya Yavatmal Maharashtra](school)
+- [DRV DAV CENTENARY PUBLIC SCHOOL PHILLAUR Punjab](school)
+- [ Eicher school faridabad Haryana](school)
+- [ EKALAVYA FOUNDATION SCHOOL Telangana](school)
+- [ Fr Agnel Multipurpose High School Goa](school)
+- [ GHSS MOOLANKAVE Kerala](school)
+- [Goernment Senior Secondary School Namchi Sikkim](school)
+- [ GOVERNMENNE HR SEC SCHOOL BILASPUR CG Chhattisgarh](school)
+- [GOVERNMENT COMPOSITE HIGHSCHOOL VOLAKADU UDUPI Karnataka](school)
+- [GOVERNMENT GIRLS SENIOR SECONDARY SCHOOL Punjab](school)
+- [GIRLS SENIOR SECONDARY SCHOOL NAMCHI](school)
+- [HIGHER SECONDARY SCHOOL MADANPUR](school)
+- [TT RAIGARH Chhattisgarh](school)
+- [Government Model Senior Secondary School Chandigarh](school)
+- [Model Senior Secondary School Sector 1C](school)
+- [ GOVERNMENT P B P U COLLEGE FOR BOYS JAMKHANDI Karnataka](school)
+- [ Government Senior Secondary School Temi Sikkim](school)
+- [ Govt Kuldip Nigam Higher Secondary School Narra Chhattisgarh](school)
+- [ GOVT MODEL HIGHER SECONDARY SCHOOL BASNA Chhattisgarh](school)
+- [ GOVT MODEL SENIOR SECONDARY SCHOOL Chandigarh](school)
+- [ Govt Model Sr Sec School Aberdeen Port Blair Andaman and Nicobar Island](school)
+- [ Govt Sr Sec School Chauntra Himachal Pradesh](school)
+- [GRAMYA HITAKARI GIRLS' SCHOOL West Bengal](school)
+- [ Gurukulam Public School Kerala](school)
+- [ GYAN MANDIR PUBLIC SCHOOL Delhi](school)
+- [ Kendriya Vidyalaya Gujarat](school)
+- [ KENDRIYA VIDYALAYA AFS BIDAR Karnataka](school)
+- [ KENDRIYA VIDYALAYA AIR FORCE HAKIMPET Telangana](school)
+- [ KENDRIYA VIDYALAYA CRPF AVADI CHENNAI Tamil Nadu](school)
+- [ KENDRIYA VIDYALAYA CRPF GC AMRIGOG GUWAHATI Assam](school)
+- [ KENDRIYA VIDYALAYA DRDO Karnataka](school)
+- [ KENDRIYA VIDYALAYA FOREST RESEARCH INSTITUTE Uttarakhand](school)
+- [ KENDRIYA VIDYALAYA GUNTUR Andhra Pradesh](school)
+- [ KENDRIYA VIDYALAYA IISc BANGALORE Karnataka](school)
+- [KENDRIYA VIDYALAYA JANAKPURI Delhi](school)
+- [ KENDRIYA VIDYALAYA MALLESWARAM BANGALORE Karnataka](school)
+- [KENDRIYA VIDYALAYA MATHURA REFINERY NAGAR Uttar Pradesh](school)
+- [ KENDRIYA VIDYALAYA NAD ALUVA Kerala](school)
+- [ KENDRIYA VIDYALAYA NF RAILWAY MALIGAON Assam](school)
+- [ KENDRIYA VIDYALAYA NFC VIGYAN VIHAR Delhi](school)
+- [ Kendriya Vidyalaya NMR Delhi](school)
+- [ KENDRIYA VIDYALAYA NO 1  OE TRICHY Tamil Nadu](school)
+- [ KENDRIYA VIDYALAYA NO I RCF HUSSAINPUR Punjab](school)
+- [ KENDRIYA VIDYALAYA NO II SADRAS KALPAKKAM Tamil Nadu](school)
+- [ KENDRIYA VIDYALAYA NO THREE AGRA CANTT Uttar Pradesh](school)
+- [ KENDRIYA VIDYALAYA NO.1, PALAKKAD Kerala](school)
+- [ KENDRIYA VIDYALAYA OTTAPALAM Kerala](school)
+- [ KENDRIYA VIDYALAYA PATTOM Kerala](school)
+- [ KENDRIYA VIDYALAYA PAYYANUR Kerala](school)
+- [ Kendriya Vidyalaya Sector- R K Puram Delhi](school)
+- [ KENDRIYA VIDYALAYA STEEL PLANT Andhra Pradesh](school)
+- [ Kendriya Vidyalaya SVP NPA Telangana](school)
+- [ KENDRIYA VIDYLAYA NEW BONGAIGAON ASSAM Assam](school)
+- [ KIIT World School Delhi](school)
+- [ KISAN MADHYMIC VIDHYALAYA Gujarat](school)
+- [Kongu Vellalar Matriculation Higher Secondary School Tamil Nadu](school)
+- [ KRISHNA PUBLIC SCHOOL DUNDA RAIPUR Chhattisgarh](school)
+- [ KSHATRIYA GIRLS HIGHER SECONDARY SCHOOL Tamil Nadu](school)
+- [ KV NO I DEHU ROAD PUNE Maharashtra](school)
+- [ Lakshmipat Singhania Academy West Bengal](school)
+- [ LALAJI MEMORIAL OMEGA INTERNATIONAL SCHOOL Tamil Nadu](school)
+- [ Late Smt BG Shanbhag Vidyalaya savkheda Maharashtra](school)
+- [ LUCKNOW PUBLIC COLLEGE Uttar Pradesh](school)
+- [M E S Rani Laxmibai Mulinchi Sainiki Shala and Jr College Maharashtra](school)
+- [ MAHARAJA AGRASEN MODEL SCHOOL Delhi](school)
+- [ATI INDIA INTERNATIONAL SCHOOL](school)
+- [MDS PUBLIC SCHOOL Rajasthan](school)
+- [ MES BALSHIKSHAN MANDIR ENGLISH MEDIUM SCHOOL Maharashtra](school)
+- [ MES HIGHER SECONDARY SCHOOL Goa](school)
+- [ MIDNAPORE COLLEGIATE SCHOOL West Bengal](school)
+- [ MILLENNIUM NATIONAL SCHOOL Maharashtra](school)
+- [ Model Academy Jammu and Kashmir](school)
+- [ MODERN PUBLIC SCHOOL Delhi](school)
+- [ Mohanlal Dayal Vinay Mandir School Rajasthan](school)
+- [ MONTFORT SCHOOL Assam](school)
+- [ MOTHER INDIA PUBLIC SCHOOL Uttarakhand](school)
+- [ Mushtifund High School Goa](school)
+- [ Naktala High School West Bengal](school)
+- [ NATIONAL ACADEMY MATRIC HR SEC SCHOOL Tamil Nadu](school)
+- [ National Centre For Excellence Karnataka](school)
+- [NAV JYOTI SENIOR SECONDARY SCHOOL PITHRAWAS Haryana](school)
+- [ NAVARASAM MATRIC HR SEC SCHOOL Tamil Nadu](school)
+- [ NAVRACHANA VIDYANI VIDYALAYA Gujarat](school)
+- [ NES High School and Junior College Maharashtra](school)
+- [ Oxford Public Senior Secondary School Uttar Pradesh](school)
+- [ P.M.G. THAKAR ADARSH HIGH SCHOOL Gujarat](school)
+- [ PALJOR NAMGYAL GIRLS SCHOOL Sikkim](school)
+- [ PARAMITA HIGH SCHOOL Telangana](school)
+- [ PRAVARA PUBLIC SCHOOL PRAVARANAGAR Maharashtra](school)
+- [ Radiant International School Patna Bihar](school)
+- [ Rainbow International School Himachal Pradesh](school)
+- [ Rajkiya Pratibha Vikas Vidyalaya Sec-XI Rohini Delhi](school)
+- [ RAMAKRISHNA MISSION VIDYALAYA NARENDRAPUR West Bengal](school)
+- [ RAMAKRISHNA MISSION VIDYAPITH West Bengal](school)
+- [ RYAN INTERNATIONAL SCHOOL Delhi](school)
+- [ Ryan International School Faridabad Haryana](school)
+- [ RYAN INTERNATIONAL SCHOOL MAYUR VIHAR Delhi](school)
+- [ SADHU VASWANI INTERNATIONAL SCHOOL FOR GIRLS Delhi](school)
+- [ SAGAR PUBLIC SCHOOL Madhya Pradesh](school)
+- [ SAGAR PUBLIC SCHOOL GANDHI NAGAR BHOPAL Madhya Pradesh](school)
+- [ SAINT FRANSALIAN SCHOOL Arunachal Pradesh](school)
+- [ SALWAN GIRLS SR. SEC. SCHOOL Delhi](school)
+- [SALWAN PUBLIC SCHOOL Delhi](school)
+- [ Sant Ishar Singh ji memorial public school Punjab](school)
+- [ Sapekhati Higher Secondary School Assam](school)
+- [ Saraf Public School Uttarakhand](school)
+- [ Saraswati Shishu Mandir Sr Sec School Uttar Pradesh](school)
+- [ SARSWATI VIDYA MANDIR HSc School TIMARNI Madhya Pradesh](school)
+- [ SARVODAYA CENTRAL VIDYALAYA Kerala](school)
+- [SARVODAYA VIDYALAYA VASANT VIHAR Delhi](school)
+- [ SBOA School and Junior College Tamil Nadu](school)
+- [ School Of Creative Learning Bihar](school)
+- [ School Of Scholars Maharashtra](school)
+- [ Seth Anandram Jaipuria Public School Uttar Pradesh](school)
+- [ Shankardev Sishu Niketon Dhakuakhana Assam](school)
+- [Shardabai Pawar Vidyaniketan Maharashtra](school)
+- [ Shree Mouni Vidhyapeeths Shri Shahu Kumar Bhavan Maharashtra](school)
+- [ Shri J T Surana Jain Vidyalaya Tamil Nadu](school)
+- [ SHRI JYOTIRLING VIDYAMANDIR VADANGE NIGAVE DUMALA Maharashtra](school)
+- [ Shri K K M S Government Higher Secondary Girls High School Gujarat](school)
+- [ Sir Tashi Namgyal Senior Secondary School Sikkim](school)
+- [ SNEH INTERNATIONAL SCHOOL Delhi](school)
+- [ SOMALWAR HIGH SCHOOL AND JUNIOR COLLEGE Maharashtra](school)
+- [ Springdales School Dhaula Kuan Delhi](school)
+- [ SRI PRAKASH SYNERGY SCHOOL Andhra Pradesh](school)
+- [SRI PRAKASH VIDYA NIKETAN Andhra Pradesh](school)
+- [ St Edmunds School Rajasthan](school)
+- [ ST JOSEPHS CONVENT HIGH SCHOOL Karnataka](school)
+- [ St Kabir Public School Chandigarh](school)
+- [ St Pauls Institute Manipur](school)
+- [ ST PETERS SENIOR SECONDARY SCHOOL Kerala](school)
+- [ ST THOMAS EMHSS ATTAPPALLAM KUMILY Kerala](school)
+- [ ST XAVIERS HIGHER SECONDARY SCHOOL Goa](school)
+- [ ST. ANTONY'S PUBLIC SCHOOL Kerala](school)
+- [ St. Paul's Hr. Sec. School Mizoram](school)
+- [ St.Paul's School Karnataka](school)
+- [ Subbiah Vidyalayam Girls Higher Secondary School Tamil Nadu](school)
+- [ SUNBEAM ACADEMY Uttar Pradesh](school)
+- [ Sundaram Central School and Junior college Maharashtra](school)
+- [ Syed Abid Hussain Senior Secondary School Delhi](school)
+- [ TAGORE INTERNATIONAL SCHOOL, EAST OF KAILASH Delhi](school)
+- [The Banyan Tree School Uttar Pradesh](school)
+- [ The Choice School Kerala](school)
+- [ Tilak HIghschool And Jr College Karad Maharashtra](school)
+- [ TKM CENTENARY PUBLIC SCHOOL Kerala](school)
+- [ Tungal Composite PU Science College Karnataka](school)
+- [ Vidhya Parthi Higher Secondary School Tamil Nadu](school)
+- [ Vidya Vihar Residential School Bihar](school)
+- [ VIGNAN VIDYALAYA Telangana](school)
+- [ VISHNU SCHOOL Andhra Pradesh](school)
+- [ VISHWAKARMA VIDYALAYA ENGLISH MEDIUM Maharashtra](school)
+- [ Viswadeepthi English Medium School Kerala](school)
+- [ VIVEKANANDA KENDRA VIDYALAYA KUPORIJO Arunachal Pradesh](school)
+- [ WOODWARD PUBLIC SCHOOL Uttar Pradesh](school)
+- [ Yuvabharathi Public School Tamil Nadu](school)
+- I am in [8th](class) standard
+- i am in [8](class) standard
+- i am in [9](class) standard
+- i am in [10](class) standard
+- i am in [11](class) standard
+- i am in [12](class) standard
+- i am in [plus one](class) standard
+- i am in [plus two](class) standard
+- i am in [+1](class) standard
+- i am in [+2](class) standard
+- i am in [8th](class) standard
+- i am in [9th](class) standard
+- i am in [10th](class) standard
+- 8
+- 9
+- 10
+- 11
+- 12
+- plus one
+- plus two
+- +1
+- +2
+- 8th
+- 9th
+- 10th
+- i am in [8](class)
+- i am in [9](class)
+- i am in [10](class)
+- i am in [11](class)
+- i am in [12](class)
+- i am in [plus one](class)
+- i am in [plus two](class)
+- i am in [+1](class)
+- i am in [+2](class)
+- i am in [8th](class)
+- i am in [9th](class)
+
+
+## intent:thankyou
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+
+
+##intent:ask_builder
+- can you share your boss with me?
+- i want to get to know your owner
+- i want to know the company which designed you
+- i want to know the company which generated you
+- i want to know the company which invented you
+- i want to know who invented you
+- May I ask who invented you?
+- please tell me the company who created you
+- please tell me who created you
+- tell me more about your creators
+- tell me more about your founders
+- which company brought you into existence?
+- which company created you?
+- which company invented you?
+- Who's your boss?
+- Who's your builder?
+- Who built you?
+- Who created you?
+- Who is your creator?
+- Who designed you?
+- who do you work for?
+- Who fabricated you?
+- Who generated you?
+- who had the idea to build you?
+- who had the idea to generate you?
+- who had the idea to make you?
+- who is behind all this?
+- Who is the legal owner of you?
+- who is your boss tell me
+- who is your boss?
+- who is your creator?
+- Who is your programmer?
+- Who made you?
+- Who modeled you?
+- Who owns you?
+- Who produced you?
+- Who thought to make you?
+- Who went through the trouble of setting you up?
+- and who built u?
+- who built you?
+- who build yoi
+- who made you?
+- where were you made?
+- why were you made?
+- who created you?
+- tell me more about you
+- who created you
+- who invent you
+- who developed
+- who developed you
+- who made u
+- you are made by who?
+- who built u?
+- who made u?
+- who made you
+- who is your boss
+- who built you
+- who is your parent?
+- who are your parents
+- you are working for which company?
+- who is your employer?
+- what is the name of the smart engineer who created you ?
+- what is the name of the smart engineer who created you ?
+- who is your father ?
+- who create you ?
+- who create you ?
+- who's builder
+- who is your mom
+- who is your daddy
+- Who created you?
+- Do you know who built you?
+- Who made you?
+- Who is the name of your builder?
+- Who is the name of your creator?
+- Who is the person that invented you?
+- Do you know who made you?
+- Who were you built by?
+- Who were you created by?
+- Who created you?
+- By whom were you built?
+- Who made you?
+- Who developed you?
+- Who were you created by?
+- Who created and built you?
+- Who is the person responsible for building you?
+- Who is it that built you?
+- Who is responsible for making you?
+- Who developed and created you?
+- Who created you?
+- Who was the person that made you?
+- Who put you together?
+- Who was the person that created you?
+- Who was the person who made you?
+- Who was the person that built you?
+- Who was the person who put you together?
+- Who was the one who made you?
+- Who was the one that built you?
+- Do you know who built you?
+- Who is the person who built you?
+- Tell me who built you.
+- Who is your creator?
+- Who created you?
+- Who is the builder of you?
+- Who were you built by?
+- Tell me the name of your creator.
+- What is the name of your builder?
+- Name the person who built you.
+- Who made you?
+- Who created you?
+- Who were you created by?
+- Who designed you?
+- Tell me the name of the person who built you.
+- Who were you made by?
+- Tell me the name of the individual who created you.
+- Can I ask the name of the people who designed you?
+- What person built you?
+- Who were you built by?
+- who is your creator
+
+
+##intent:ask_languagesbot
+- What languages can you use?
+- Which languages do you speak?
+- What are the languages you can speak?
+- What languages do you know?
+- What languages are you fluent in?
+- What languages can you converse in?
+- What languages do you know how to use?
+- Which languages are you familiar with?
+- What languages can you use?
+- what languages are you familiar with?
+- what languages are you comfortable speaking at?
+- what languages are you good at speaking?
+- what languages you are well versed ?
+- what languages you can be comfortable speaking?
+- what languages you prefer more speaking at?
+- what languages you can handle well?
+- Do you know any other languages?
+- Do you speak any other languages?
+- What languages do you know?
+- What languages do you speak?
+- What do you speak?
+- tell me some languages you know?
+- do you speak any other languages?
+- what else do you know besides English?
+- are you bilingual?
+- are you multilingual?
+- what foreign languages do you know?
+- what foreign languages are you fluent in?
+- how many languages are you fluent in?
+- how many languages do you know?
+- How many languages do you know?
+- How many languages can you speak?
+- What languages are you fluent in?
+- How many different languages are you fluent in?
+- How many languages do you have knowledge of?
+- What are all of the different languages you can speak?
+- Are you familiar with more than one language?
+- Can you speak more than one language?
